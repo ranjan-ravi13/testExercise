@@ -1,0 +1,3 @@
+com\ppro\qatest\base\Base.class
+com\ppro\qatest\utils\Constants.class
+com\ppro\qatest\pages\NetlifyPaymentPage.class
